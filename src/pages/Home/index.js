@@ -42,7 +42,7 @@ export default function Home(){
                         <img className="poster" src={`https://image.tmdb.org/t/p/original/${movie.poster_path}` }alt="posters" />
                         <div className="subtitle">
                         <p>Popularidade: {movie.popularity}</p>
-                        <Link className="btn" to={`/Movies/${movie.id}`}>assesar</Link>
+                        <Link className="btn" to={`/Movies/${movie.id}`}>acessar</Link>
                         </div>
                     </article>
                     )
