@@ -1,0 +1,47 @@
+.containerMovie{
+    flex-direction: column;
+    display: flex;
+    width: 80%;
+    align-items: center;
+    justify-content: center;
+    margin: 15px auto;
+}
+
+.containerMovie img{
+    margin: 20px auto;
+    border-radius: 5px;
+    width: 200px;
+    height: 275px;
+    box-shadow: rgb(43, 43, 43) 4px 3px 10px 0px;
+}
+
+.sinopse{
+    margin: 25px auto;
+}
+
+.sinopseDetails{
+    text-align: justify;
+    margin-bottom: 30px;
+}
+
+.area-btn{
+    display: flex;
+    gap: 15px;
+    margin: 15px auto;
+}
+
+.trailerBtn{
+    background: #c21500;
+    background: -webkit-linear-gradient(to right, #c21500);   
+    background: linear-gradient(to right, #ffc500, #c21500);
+    padding: 4px 22px;
+    border-radius: 6px;
+    border: none;
+    text-transform: uppercase;
+    cursor: pointer;
+    opacity: 0.8;
+}
+
+.trailerBtn:hover, .saveBtn:hover{
+    opacity: 1;
+}

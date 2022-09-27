@@ -1,0 +1,15 @@
+.containerError{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 40% auto;
+}
+
+.btnError{
+    background-color: black;
+    color: aliceblue;
+    padding: 8px 35px;
+    margin-top: 25px;
+    border-radius: 25px;
+}
