@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/MovieGuide/static/css/main.0d3d28fe.css",
-    "main.js": "/MovieGuide/static/js/main.27bfbb1c.js",
+    "main.js": "/MovieGuide/static/js/main.86945dda.js",
     "static/media/loading.png": "/MovieGuide/static/media/loading.c242bda5790b1553d597.png",
     "index.html": "/MovieGuide/index.html",
     "main.0d3d28fe.css.map": "/MovieGuide/static/css/main.0d3d28fe.css.map",
-    "main.27bfbb1c.js.map": "/MovieGuide/static/js/main.27bfbb1c.js.map"
+    "main.86945dda.js.map": "/MovieGuide/static/js/main.86945dda.js.map"
   },
   "entrypoints": [
     "static/css/main.0d3d28fe.css",
-    "static/js/main.27bfbb1c.js"
+    "static/js/main.86945dda.js"
   ]
 }
