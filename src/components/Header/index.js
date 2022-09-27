@@ -5,7 +5,7 @@ export default function Header(){
     return(
         <header>
             
-            <Link className='logo' to='/'><span>Movie</span>Guide</Link>
+            <Link className='logo' to='/MovieGuide/'><span>Movie</span>Guide</Link>
         </header>
     )
 }
