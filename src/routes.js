@@ -10,7 +10,7 @@ export default function RoutesApp(){
         <BrowserRouter>
         <Header/>
         <Routes>
-            <Route path='MovieGuide/' element={<Home/>}></Route>
+            <Route path='/Home' element={<Home/>}></Route>
             <Route path='/Movies/:id' element={<Movies/>}></Route>
 
             <Route path='*' element={<Error/>}></Route>
