@@ -6,7 +6,7 @@ export default function Error(){
         <div className="containerError">
             <h1>❌404❌</h1>
             <p>Pagina não encontrada</p>
-            <Link className="btnError" to='/'>HOMEPAGE</Link>
+            <Link className="btnError" to='/MovieGuide'>HOMEPAGE</Link>
         </div>
     )
 }
