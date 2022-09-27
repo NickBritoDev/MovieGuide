@@ -2,7 +2,7 @@
   "name": "api-project",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://NickBritoDev.github.io/",
+  "homepage": "https://NickBritoDev.github.io/MovieGuide/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
